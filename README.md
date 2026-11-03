@@ -35,4 +35,5 @@ smart pointer
 
 ## people process assessment
 ## adcale
+https://github.com/kaizen-nagoya/Engineer/tree/main/AdCale
 
