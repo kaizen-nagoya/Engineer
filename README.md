@@ -6,7 +6,7 @@ engineer training school by Aichi Prefecture
 ## statistic
 Science, Provability and Risk management
 
-## Spirit of C and Principle of C
+# Spirit of C and Principle of C
 ### 1 language history
 machine language
 assembly language
@@ -25,13 +25,13 @@ smart pointer
 ## 7 C and C++
 ## 8 safety type
 
-## AUTOSAR
+# AUTOSAR
 
-## SDV  
+# SDV  
 
-## how to write doctrial thesis
+# how to write doctrial thesis
 
-## Frieve-A
+# Frieve-A
 
 ## people process assessment
 
